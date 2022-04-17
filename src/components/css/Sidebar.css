@@ -1,0 +1,42 @@
+.sidebar__main {
+  flex: 0.2;
+}
+.info__div {
+  width: 300px;
+}
+.info__div p:first-child {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.info__div span {
+  color: #ef7123;
+  font-size: 1.4rem;
+}
+.info__div a {
+  color: rgba(0, 0, 0, 0.55);
+}
+.info__div {
+  background: transparent;
+}
+.menu__div {
+  border: none;
+  background: transparent;
+}
+.menu__div > div {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.menu__div > div > label {
+  padding-left: 15px;
+}
+.menu__div h5 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1rem;
+}
+.sidebar__footer {
+  display: flex;
+  justify-content: space-around;
+}

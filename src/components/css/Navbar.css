@@ -3,26 +3,17 @@
 }
 .input-group > .search__icon {
   position: absolute;
-  left: 15.5rem;
+  left: 24rem;
   margin-top: 8px;
 }
 .woof__image {
   width: 70px;
 }
 .search__form {
-  width: 30%;
+  width: 45%;
 }
 .navbarSupportedContent .nav-item {
   width: max-content;
   margin-left: 10px;
   margin-right: 10px;
-}
-#account__btn {
-  font-size: 1rem;
-  color: #ef7123;
-  background-color: #fff;
-  border: 1px solid #ef7123;
-  border-radius: 10px;
-  text-transform: capitalize;
-  padding: 8px;
 }
