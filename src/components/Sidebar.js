@@ -25,7 +25,7 @@ const Sidebar = () => {
           </p>
           <div className="text-center pt-2 mt-2">
             <button id="account__btn">create account</button>
-            <a href={true} className="nav-link">
+            <a href="true" className="nav-link">
               Login
             </a>
           </div>

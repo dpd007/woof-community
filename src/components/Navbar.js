@@ -25,7 +25,7 @@ const Navbar = () => {
           <div className="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a href={true} className="nav-link">
+                <a href="true" className="nav-link">
                   Login
                 </a>
               </li>
